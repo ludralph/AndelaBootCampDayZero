@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Simple example of jasmine. I ran `jasmine examples` and fixed the paths so the tests work. I also added `src/Add.js` and `spec/my_examples/AddSpec.js`.
 
 ## Setup
@@ -33,3 +34,7 @@ Simple example of jasmine. I ran `jasmine examples` and fixed the paths so the t
  * open the `SpecRunner.html` in your browser
  * you can also use [jasmine-html-runner](https://www.npmjs.com/package/jasmine-html-runner) 
    to run it on the command line
+=======
+# AndelaBootCampDayZero
+`getPrimes` function that takes an integer value *n* as argument and generates prime numbers from 0 to n with asymptotic analysis.
+>>>>>>> 3c7dab073039e7c515482ed7c21757f694881699
